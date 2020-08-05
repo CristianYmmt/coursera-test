@@ -24,8 +24,14 @@ h1 {
     top: -10px;
 }
 
-p {
-    position: relative;
+#Chicken {
+    background-color: #b60ead;
+}
+#Beef {
+    background-color: #dd0126;
+}
+#Sushi {
+    background-color: #b98f04;
 }
 
 div {
