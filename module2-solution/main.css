@@ -40,13 +40,13 @@ div {
     color: white;
 }
 
-#Chicken {
+p#Chicken {
     background-color: #b60ead;
 }
-#Beef {
+p#Beef {
     background-color: #dd0126;
 }
-#Sushi {
+p#Sushi {
     background-color: #b98f04;
 }
 
