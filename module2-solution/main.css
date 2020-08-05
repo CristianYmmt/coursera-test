@@ -24,15 +24,6 @@ h1 {
     top: -10px;
 }
 
-#Chicken {
-    background-color: #b60ead;
-}
-#Beef {
-    background-color: #dd0126;
-}
-#Sushi {
-    background-color: #b98f04;
-}
 
 div {
     border: 1px solid black;
@@ -47,6 +38,16 @@ div {
     overflow: auto;
     font-family: Helvetica;
     color: white;
+}
+
+p #Chicken {
+    background-color: #b60ead;
+}
+p #Beef {
+    background-color: #dd0126;
+}
+p #Sushi {
+    background-color: #b98f04;
 }
 
 /* Simple Responsive Framework. */
